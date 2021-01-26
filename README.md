@@ -5,4 +5,4 @@ https://eu-gb.dataplatform.cloud.ibm.com/analytics/notebooks/v2/d2097d13-76cb-41
 
 
 Link to Course 9 Week 3 Peer Graded Assignment Notebook:
-https://labs.cognitiveclass.ai/tools/jupyterlab/lab/tree/labs/DS0701EN/DS0701EN-3-3-2-Neighborhoods-New-York-py-v1.0.ipynb?lti=true
+https://jupyterlab-34.labs.cognitiveclass.ai/hub/user-redirect/lab/tree/labs/DS0701EN/Course%209%20Week%203%20Peer%20Assignment.ipynb
