@@ -6,3 +6,6 @@ https://eu-gb.dataplatform.cloud.ibm.com/analytics/notebooks/v2/d2097d13-76cb-41
 
 Link to Course 9 Week 3 Peer Graded Assignment Notebook:
 https://jupyterlab-34.labs.cognitiveclass.ai/hub/user-redirect/lab/tree/labs/DS0701EN/Course%209%20Week%203%20Peer%20Assignment.ipynb
+
+Link to Final Capstone Notebook:
+https://jupyterlab-34.labs.cognitiveclass.ai/hub/user-redirect/lab/tree/labs/DS0701EN/IBM%20Capstone%20Final.ipynb
